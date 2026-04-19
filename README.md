@@ -43,17 +43,20 @@ The program prints basic statistics in the terminal and generates a temperature 
 
 Example results:
 
-Average temperature: 20.8
-Maximum temperature: 27
-Minimum temperature: 15
-Day with highest temperature: 10
-Chart
+- Average temperature: 20.8
+- Maximum temperature: 27
+- Minimum temperature: 15
+- Day with highest temperature: 10
 
-Learning goals
+## Chart
+
+![Temperature Plot](temperature_plot.png)
+
+## Learning goals
 
 This project helped me practice:
 
-Reading CSV files with pandas
-Selecting columns from a dataset
-Performing basic data analysis
-Creating visualizations with matplotlib
+- Reading CSV files with pandas
+- Selecting columns from a dataset
+- Performing basic data analysis
+- Creating visualizations with matplotlib
